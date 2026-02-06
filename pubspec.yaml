@@ -1,0 +1,26 @@
+
+name: caminando_con_cristo
+description: Una aplicación Flutter espiritual para el crecimiento cristiano.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Lexend
+      fonts:
+        - asset: https://fonts.gstatic.com/s/lexend/v18/nifa8XpW8_DSB4qUxySR.ttf
